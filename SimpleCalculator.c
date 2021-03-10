@@ -2,7 +2,7 @@
 
 /*
     SimpleCalculator function:
-        -Takes 2 args and performs 1 of 4 Arethmetic Operations(add,subtract,divide,multiply)
+        -Takes 2 args and performs 1 of 4 Arithmetic Operations(add,subtract,divide,multiply)
         -To select operation, user input is required
         -Return answer to user and print to console.
         -Take into consideration invalid input.
