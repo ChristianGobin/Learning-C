@@ -22,15 +22,11 @@ void greatest_of_four(int a, int b, int c, int d){
 	printf("%i",tracker);
 }
 int main(int argc, char *argv[]) {
-	greatest_of_four(4, 3, 6, 9);
-	
-	
-	
-	/*
-	Test loop through list.
+	//Test loop through list.
+	int z;
 	int listy[4] = {1,2,3,4};
 	for(int i = 0; i <= 3; i++){
-		printf("%i\n", listy[i]);
+		int z = z + listy[i];
+		printf("%i\n", z);
 	}
-	*/
 }
