@@ -22,11 +22,10 @@ void greatest_of_four(int a, int b, int c, int d){
 	printf("%i",tracker);
 }
 int main(int argc, char *argv[]) {
-	//Test loop through list.
-	int z;
-	int listy[4] = {1,2,3,4};
-	for(int i = 0; i <= 3; i++){
-		int z = z + listy[i];
-		printf("%i\n", z);
+	int randoms[4] = {1,2,3,4};
+	int i = 0;
+	while(i <= sizeof(randoms)){
+		printf("%i\n", randoms[i]);
+		i++;
 	}
 }
