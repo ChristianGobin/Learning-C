@@ -13,7 +13,7 @@ void greatest_of_four(int a, int b, int c, int d){
 	//Only switch the max value when new value is larger.
 	int tracker = numbers[0];
 	int i = 0;
-	while(i <= sizeof(numbers)){
+	while(i <= 4){
 		if(numbers[i] > tracker){
 			tracker = numbers[i];
 		}
@@ -21,14 +21,8 @@ void greatest_of_four(int a, int b, int c, int d){
 	}
 	printf("%i",tracker);
 }
+
+//There is no way to get the length of an array in C, instead use the hard coded arr length to iterate.
 int main(int argc, char *argv[]) {
-	int randoms[4] = {1,2,3,4};
-	int i;
-	for(i = 0; i<=sizeof(randoms); i++){
-		printf("%i\n", randoms[i]);
-	}
-	//while(i <= sizeof(randoms)){
-	//	printf("%i\n", randoms[i]);
-	//	i++;
-	//}
+	greatest_of_four(4, 2, 1, 30);
 }
