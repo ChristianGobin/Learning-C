@@ -1,6 +1,4 @@
 #include <stdio.h>
-//https://www.hackerrank.com/challenges/functions-in-c/problem
-//HackerRank C functions problem.
 /*
 	Objective:
 			Write a function that takes 4 int args and returns the largest int.
