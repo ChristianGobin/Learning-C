@@ -2,6 +2,8 @@
 /*
 	Objective:
 			Write a function that takes 4 int args and returns the largest int.
+	
+			*need to get and store user input in array to be processed.
 */
 
 void greatest_of_four(int a, int b, int c, int d){
