@@ -2,8 +2,6 @@
 /*
 	Objective:
 			Write a function that takes 4 int args and returns the largest int.
-	
-			*need to get and store user input in array to be processed.
 */
 
 void greatest_of_four(int a, int b, int c, int d){
@@ -24,5 +22,5 @@ void greatest_of_four(int a, int b, int c, int d){
 
 //There is no way to get the length of an array in C, instead use the hard coded arr length to iterate.
 int main(int argc, char *argv[]) {
-	greatest_of_four(4, 2, 1, 30);
+	greatest_of_four(4, 2, 1, 1);
 }
