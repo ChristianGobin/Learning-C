@@ -8,12 +8,14 @@ void greeting(char Name[]){
 }
 
 void isNumEven(int i){
-	if(i%2==0){
+	if(i%2==0 && i!=0){
 		printf("The Number is Even.");
 	} else {
 		printf("The Number is Odd");
 	}
 }
+
+
 int main(int argc, char *argv[]) {
 	char firstName[10];
 	fgets(firstName, 10, stdin);
@@ -21,5 +23,13 @@ int main(int argc, char *argv[]) {
 	
 	int i = getchar();
 	isNumEven(i);
+	switch(i){
+		case 0:
+			printf("INVALID");
+			break;
+		case 1:
+			printf("ODD");
+			break;
+	}
 	return 0;
 }
