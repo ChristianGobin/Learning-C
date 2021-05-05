@@ -10,11 +10,11 @@ This is just a log of my progress while learning C. From basic data types to poi
     </dd>
     <dt>Hacker Rank Sum and Differences using Scanf</dt>
     <dd>
-        Your task is to take two numbers of int data type, two numbers of float data type as input and output their sum:
-        Declare  variables: two of type int and two of type float.
-        Read  lines of input from stdin (according to the sequence given in the 'Input Format' section below) and initialize your  variables.
-        Use the  and  operator to perform the following operations:
-        Print the sum and difference of two int variable on a new line.
+        Your task is to take two numbers of int data type, two numbers of float data type as input and output their sum:\n
+        Declare  variables: two of type int and two of type float.\n
+        Read  lines of input from stdin (according to the sequence given in the 'Input Format' section below) and initialize your  variables.\n
+        Use the  and  operator to perform the following operations:\n
+        Print the sum and difference of two int variable on a new line.\n
         Print the sum and difference of two float variable rounded to one decimal place on a new line.
     </dd>
 </dl>
