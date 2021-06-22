@@ -32,4 +32,10 @@
     <dd>
         Write a program that prints the conversion of fahr -> celsius.
     </dd>
+    <dt>
+        HackerRank conditional statements.
+    </dt>
+    <dd>
+        https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=false
+    </dd>
 </dl>
