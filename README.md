@@ -26,4 +26,10 @@
     <dd>
         In this challenge, you will learn to implement the basic functionalities of pointers in C. A pointer in C is a way to share a memory address among different contexts (primarily functions). They are primarily used whenever a function needs to modify the content of a variable that it does not own.
     </dd>
+    <dt>
+        K&R Temperature Conversion
+    </dt>
+    <dd>
+        Write a program that prints the conversion of fahr -> celsius.
+    </dd>
 </dl>
