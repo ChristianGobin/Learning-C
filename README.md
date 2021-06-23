@@ -33,9 +33,11 @@
         Write a program that prints the conversion of fahr -> celsius.
     </dd>
     <dt>
-        HackerRank conditional statements.
+        <a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=false">
+            HackerRank conditional statements.
+        </a>
     </dt>
     <dd>
-        <a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=false"/>
+        Given a positive integer n, if n is between 1 and 9 (inclusive), print the number in text form. Otherwise print whether the number is greater than 9.
     </dd>
 </dl>
