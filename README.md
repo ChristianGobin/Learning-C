@@ -36,6 +36,6 @@
         HackerRank conditional statements.
     </dt>
     <dd>
-        https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=false
+        <a href="https://www.hackerrank.com/challenges/conditional-statements-in-c/problem?isFullScreen=false"/>
     </dd>
 </dl>
