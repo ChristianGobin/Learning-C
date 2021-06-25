@@ -1,17 +1,30 @@
 #include <stdio.h>
 //Return an array from a function
 
-char* get_and_return_name();
+int* generate_odd_ints();
 int main()
 {
-	char* my_name = get_and_return_name();
-	printf("%c", my_name);
+	int* odd_arr_address = generate_odd_ints();
+	printf("%p\n", &odd_arr_address);
+	
+	printf("%p", *odd_arr_address[1]);
+	
 }
 
-char* get_and_return_name()
+int* generate_odd_ints()
 {
-	char name[100];
-	printf("Enter Your Name: ");
-	scanf("%s", name);
-	return name;
+	int odd_array[10];
+	int x = 0;
+	while(x <= 9)
+	{
+		for(int i = 1; i <= 10; i++)
+		{
+			if(i % 2 != 0)
+			{
+				odd_array[x] = i;
+			}
+		}
+		x++;
+	}
+	return odd_array;
 }
