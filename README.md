@@ -32,4 +32,10 @@
     <dd>
         Write a program that prints the conversion of fahr -> celsius.
     </dd>
+    <dt>
+        Return array from function
+    </dt>
+    <dd>
+        Write a function that returns an array.
+    </dd>
 </dl>
