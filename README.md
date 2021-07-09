@@ -1,6 +1,9 @@
 # C Programming
 <hr/>
 <dl>
+    <dt> Creating "get_line" function from scratch </dt>
+    <dd>
+        get_line() is a void function that gets input of a certain length from input stream by user. The function will read in input until EOF or \n is encountered.
     <dt>Hacker Rank Greatest of 4 inputs.</dt>
     <dd>
        Create a program that takes 4 given integer arguments and returns the largest to the user.
