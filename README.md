@@ -4,6 +4,13 @@
     <dt> Creating "get_line" function from scratch </dt>
     <dd>
         get_line() is a void function that gets input of a certain length from input stream by user. The function will read in input until EOF or \n is encountered.
+    </dd>
+    <dt>
+        Perimeter and Area of a Rectangle Program
+    </dt>
+    <dd>
+        Wrote 2 functions that return the perimeter and area of a rectangle, given the length and width as parameters.
+    </dd>
     <dt>Hacker Rank Greatest of 4 inputs.</dt>
     <dd>
        Create a program that takes 4 given integer arguments and returns the largest to the user.
