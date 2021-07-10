@@ -3,14 +3,17 @@
 
 void get_line()
 {
-  // Logic
   
 }
 int main()
 {
+   char *x[20];
    printf("Enter a number: ");
-   char x = getchar();
-
+   while(*x != EOF || '\n')
+   {
+      *x = getchar();
+   }
+   
    printf("Your character = %c", x);
 
 }
