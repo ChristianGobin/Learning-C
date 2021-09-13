@@ -50,4 +50,10 @@
     <dd>
         Given a positive integer n, if n is between 1 and 9 (inclusive), print the number in text form. Otherwise print whether the number is greater than 9.
     </dd>
+    <dt>
+        Playground / Warmup area.
+    </dt>
+    <dd>
+        C playground used to practice
+    </dd>
 </dl>
