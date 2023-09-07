@@ -56,4 +56,10 @@
     <dd>
         C playground used to practice
     </dd>
+    <dt>
+        Feet to Inches
+    </dt>
+    <dd>
+        Simple Conversion from feet to inches using functions and print formatting.
+    </dd>
 </dl>
