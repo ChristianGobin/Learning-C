@@ -62,4 +62,11 @@
     <dd>
         Simple Conversion from feet to inches using functions and print formatting.
     </dd>
+        <dt>
+        Let's Manage Memory
+    </dt>
+    <dd>
+        Practice Managing Memory using pointers, to fully grasp the concept
+    </dd>
+    <dt>
 </dl>
