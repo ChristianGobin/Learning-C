@@ -2,7 +2,7 @@
 
 // Basic #1 include standard input output library, and print to console.
 
-int say_hello() {
+void say_hello() {
 	printf("Hello! from say_hello(); \n");
 }
 
@@ -21,7 +21,9 @@ int main() {
 	// the amount of total bits by 4. 
 	for(int i = 0; i < sizeof(some_numbers) / sizeof(some_numbers[0]); i++){
 		printf("%i, ", some_numbers[i]);
+		
 	}
+	
 	
 	
 	return 0;
