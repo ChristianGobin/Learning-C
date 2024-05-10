@@ -7,7 +7,7 @@
 
 
 int main(int argc, char *argv[]) {
-	
-	
-	
+	char string[] = "hello";
+	//printf("%s", string.toupper);
+
 }
